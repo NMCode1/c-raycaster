@@ -79,9 +79,8 @@ gcc ray.c -o ray -lmingw32 -lSDL2main -lSDL2 -mwindows
 ---
 
 ## 📸 Screenshot
-![Maze Screenshot](Screenshot 2025-08-22 at 12.50.22 PM.png)
+![Maze Screenshot]("Screenshot 2025-08-22 at 12.50.22 PM.png")
 
-*(Replace with a real screenshot of your build running)*
 
 ---
 
